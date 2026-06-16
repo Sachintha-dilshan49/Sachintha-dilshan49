@@ -18,10 +18,9 @@
 const sachintha = {
   name: "Sachintha Dilshan",
   role: "Full-Stack Developer",
-  education: "Computer Science @ University of Moratuwa",
+  education: "information technology @ University of Moratuwa",
   currentFocus: ["Next.js apps", "AI / ML side projects", "OpenGL graphics"],
-  learning: ["System design", "Cloud", "RAG pipelines"],
-  funFact: "I debug faster with coffee ☕",
+  learning: ["System design", "Cloud", "RAG pipelines"]
 };
 ```
 
@@ -62,21 +61,9 @@ const sachintha = {
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachintha-dilshan49&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
----
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sachintha-dilshan49/Sachintha-dilshan49/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
