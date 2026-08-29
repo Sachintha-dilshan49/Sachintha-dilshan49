@@ -14,15 +14,10 @@ I care about the fundamentals that make systems last: clear component boundaries
 |---|---|
 | **Languages** | JavaScript, Python, Java, C |
 | **Frontend** | Next.js, React |
-| **Backend** | Node.js |
+| **Backend** | Node.js , FastAPI|
 | **Databases** | PostgreSQL, MySQL |
 
-## GitHub Activity
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sachintha-dilshan49&show_icons=true&theme=default&hide_border=true&count_private=true&hide=issues" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintha-dilshan49&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
 
 ## Links
 
