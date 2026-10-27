@@ -8,14 +8,12 @@ My interest sits where machine learning meets production engineering — taking 
 
 I care about the fundamentals that make systems last: clear component boundaries, well-defined data flow, and architecture that stays maintainable as scope grows. I'm actively seeking industry exposure through internships and open-source contributions where I can apply this at scale.
 
-## Tech Stack
-
-| | |
-|---|---|
-| **Languages** | JavaScript, Python, Java, C |
-| **Frontend** | Next.js, React |
-| **Backend** | Node.js , FastAPI|
-| **Databases** | PostgreSQL, MySQL |
+Tech Stack
+Languages: Java · Python · TypeScript · JavaScript · SQL
+Backend: Spring Boot · FastAPI · Express.js
+Frontend: Next.js · React · Tailwind CSS
+Data: PostgreSQL · Redis
+Tools: Docker · GitHub Actions · Git
 
 
 
