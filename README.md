@@ -8,15 +8,15 @@ My interest sits where machine learning meets production engineering — taking 
 
 I care about the fundamentals that make systems last: clear component boundaries, well-defined data flow, and architecture that stays maintainable as scope grows. I'm actively seeking industry exposure through internships and open-source contributions where I can apply this at scale.
 
-##Tech Stack
-Languages: Java · Python · TypeScript · JavaScript · SQL
-Backend: Spring Boot · FastAPI · Express.js
-Frontend: Next.js · React · Tailwind CSS
-Data: PostgreSQL · Redis
-Tools: Docker · GitHub Actions · Git
+### Tech Stack
 
+- **Languages:** Java · Python · TypeScript · JavaScript · SQL
+- **Backend:** Spring Boot · FastAPI · Express.js
+- **Frontend:** Next.js · React · Tailwind CSS
+- **Data:** PostgreSQL · Redis
+- **AI / ML:** RAG · LLM integration · LightGBM
+- **Tools:** Docker · GitHub Actions · Git
 
+### Connect
 
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/sachintha-dilshan-498a3a306/) &nbsp;·&nbsp; [Email](mailto:sachintharcm@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sachintha-dilshan-498a3a306) · [Email](mailto:nlsachinthadilshan@gmail.com)
