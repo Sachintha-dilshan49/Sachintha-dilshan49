@@ -19,4 +19,4 @@ I care about the fundamentals that make systems last: clear component boundaries
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/sachintha-dilshan-498a3a306) · [Email](mailto:nlsachinthadilshan@gmail.com) .  [Portfolio](portfolio-sepia-nu-83.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/sachintha-dilshan-498a3a306) · [Email](mailto:nlsachinthadilshan@gmail.com) .  [Portfolio](https://portfolio-sepia-nu-83.vercel.app/)
